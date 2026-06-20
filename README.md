@@ -187,8 +187,7 @@ jupyter notebook
 
 - **Name:** MUHAMMAD ILHAM RAYANDA
 - **Class:** Deep Learning
-- **NIM:** Fill your NIM here
-- **Group:** Fill your group name/member list here
+- **NIM:** 1103223199
 
 ## Conclusion
 
